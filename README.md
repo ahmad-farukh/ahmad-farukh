@@ -1,84 +1,291 @@
+<!-- ===================== HERO SECTION ===================== -->
+
 <h1 align="center">Hi 👋, I'm Ahmad Farukh</h1>
-<h3 align="center">Frontend & Junior Full Stack Developer | React.js • Next.js • Docker</h3>
+
+<h3 align="center">
+Frontend & Junior Full Stack Developer | React.js | Next.js | Node.js | Django
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmadfarukh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rajahmadfarukh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/923127332365"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🚀 Results-driven **Frontend & Junior Full Stack Developer** with hands-on experience building 12+ production web applications.
-- ⚡ Specialized in **React.js, Next.js, Redux Toolkit, Node.js, and Docker containerization**.
-- 🛠️ Proven expertise in architecting resilient systems handling 1,000+ concurrent API requests and reducing load latency by 40%.
-- 🎓 **BS Computer Science** from COMSATS University Islamabad, Sahiwal Campus.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### **Backend, Cloud & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-#### **DevOps, Tools & Workflows**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- 🟢 **[DevMetrics](https://dev-metrics-ahmad-farukh-6hv1.vercel.app/)** — Containerized full-stack web audit platform analyzing site performance metrics with sub-200ms API response latency.
-- 🟢 **[Ahyera Store (FYP)](https://github.com/ahmad-farukh/AhyeraStore-Django-Js-Complete)** — Full-stack multi-tenant marketplace with AI Bargaining Chatbot (Groq API) & AI Visual Search Engine.
-- 🟢 **[Blogify](https://blogify-ahmadfarukh.vercel.app/)** — Scalable blogging application leveraging Appwrite backend micro-services, Redux Toolkit, and TinyMCE editor.
-- 🟢 **[Nexus AI Store](https://nexus-ai-store-ahmad-farukh.netlify.app/)** — AI-powered product store integrated with Google Gemini API for natural language search & catalog filtration.
-
----
-
-### 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-farukh&theme=onedark&no-frame=true&no-bio=true" alt="ahmad-farukh trophies" />
+  <a href="https://github.com/ahmad-farukh">
+    <img src="https://img.shields.io/github/followers/ahmad-farukh?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmad-farukh">
+    <img src="https://komarev.com/ghpvc/?username=ahmad-farukh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://ahmad-farukh-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-farukh&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad Farukh Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-farukh&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+---
+
+## 👨‍💻 About Me
+
+I'm **Ahmad Farukh**, a Frontend & Junior Full Stack Developer passionate about building
+scalable, responsive, and production-ready web applications.
+
+- 🚀 Built **12+ production web applications**
+- ⚛️ Strong focus on **React.js & modern frontend architecture**
+- 🔥 Experience with **Next.js, Node.js, Express.js & Django**
+- 🐳 Experienced with **Docker & containerized development**
+- ☁️ Worked with **Appwrite, Firebase, Vercel, Netlify & Railway**
+- 🔌 Experienced in building and integrating **RESTful APIs**
+- ⚡ Interested in performance optimization and scalable systems
+- 🎓 BS (Hons) Computer Science — COMSATS University Islamabad
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+### Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,appwrite,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel,netlify" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
+
+## 1. 🔎 DevMetrics
+
+Full-stack web audit platform for analyzing website performance,
+security headers, CDN information and design specifications.
+
+**Tech:** React.js • Vite • Redux Toolkit • Node.js • Express.js • Docker • Tailwind CSS
+
+🌐 **Live Demo:**  
+https://dev-metrics-ahmad-farukh-6hv1.vercel.app/
+
+---
+
+## 2. 🛍️ Ahyera Store
+
+Full-stack multi-tenant marketplace with AI-powered bargaining,
+visual search, JWT authentication and role-based dashboards.
+
+**Tech:** Django • Python • JavaScript • Docker • Groq API
+
+🌐 **Live Demo:**  
+https://ahyerastore-django-js-complete-production.up.railway.app/
+
+---
+
+## 3. ✍️ Blogify
+
+Modern blogging platform with authentication, protected routes,
+rich text editing and image management.
+
+**Tech:** React.js • Redux Toolkit • Appwrite • React Hook Form • TinyMCE • Tailwind CSS
+
+🌐 **Live Demo:**  
+https://blogify-ahmadfarukh.vercel.app/
+
+---
+
+## 4. 🤖 Nexus AI Store
+
+AI-powered e-commerce experience with natural language search,
+catalog matching and budget-based filtering.
+
+**Tech:** React.js • Context API • Gemini API • Tailwind CSS
+
+🌐 **Live Demo:**  
+https://nexus-ai-store-ahmad-farukh.netlify.app/
+
+---
+
+## 5. 📊 SaaS Analytical Dashboard
+
+Responsive SaaS analytics dashboard featuring multiple data
+visualizations and modular UI architecture.
+
+**Tech:** React.js • Tailwind CSS
+
+🌐 **Live Demo:**  
+https://saas-anaylytical-board-ahmad-farurkh.netlify.app/
+
+---
+
+## 6. 📋 Kanban Workspace
+
+Interactive drag-and-drop workspace for managing tasks across
+custom workflow columns.
+
+**Tech:** React.js • JavaScript • LocalStorage
+
+🌐 **Live Demo:**  
+https://kanbanworkspace-ahmad-farukh.netlify.app/
+
+---
+
+## 7. 💻 ReactFortage Browser IDE
+
+Browser-based development environment capable of executing code
+with a custom developer-focused interface.
+
+**Tech:** React.js • Tailwind CSS
+
+🌐 **Live Demo:**  
+https://reactfortage-ide-ahmad-farukh.netlify.app/
+
+---
+
+## 8. 💰 Expense Tracker
+
+Personal finance tracking application with dynamic transaction
+management and persistent local storage.
+
+**Tech:** React.js • JavaScript • LocalStorage
+
+🌐 **Live Demo:**  
+https://expense-tracker-app-ahmad-farukh.netlify.app/
+
+---
+
+## 9. 🔐 Random Password Generator
+
+Customizable password generation utility with complexity options,
+validation and clipboard functionality.
+
+**Tech:** React.js • JavaScript
+
+🌐 **Live Demo:**  
+https://random-password-genrator-ahmadfarukh.netlify.app/
+
+---
+
+## 10. 💱 Currency Converter
+
+Real-time currency conversion application powered by REST APIs
+with dynamic multi-currency calculations.
+
+**Tech:** React.js • REST API
+
+🌐 **Live Demo:**  
+https://currency-convertor-by-ahmad-farukh.netlify.app/
+
+---
+
+## 11. 🌤️ Weather App
+
+Weather forecasting application consuming REST APIs and displaying
+dynamic weather information including humidity, wind and temperature.
+
+**Tech:** JavaScript • REST API
+
+🌐 **Live Demo:**  
+https://weather-app-by-ahmad-farukh.netlify.app/
+
+---
+
+## 12. ✅ Vanilla JavaScript Todo
+
+Zero-dependency task management application built with vanilla
+JavaScript and browser LocalStorage.
+
+**Tech:** HTML • CSS • JavaScript • LocalStorage
+
+🌐 **Live Demo:**  
+https://vanilla-js-todo-ahmad-farukh.netlify.app/
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <i>Designed & Built by <b>Ahmad Farukh</b></i>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmad-farukh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-farukh&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ahmad-farukh&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ahmad-farukh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
+  />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-farukh&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+---
+
+# 💼 Let's Connect
+
+<p align="center">
+
+<a href="https://ahmad-farukh-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/ahmad-farukh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ahmadfarukh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rajahmadfarukh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🚀 What I Love Building
+
+```text
+Frontend Applications     ████████████████████  React / Next.js
+Full Stack Applications   ██████████████████   Node / Express / Django
+REST APIs                 █████████████████    API Integration
+UI/UX                     █████████████████    Tailwind / Responsive Design
+DevOps                    ███████████████      Docker / CI/CD
+Cloud Platforms           ███████████████      Vercel / Netlify / Railway
