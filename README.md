@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmad Farukh
 
-### Frontend & Junior Full Stack Developer
+### Full Stack Developer
 
 **React.js • Next.js • Node.js • Django • Docker**
 
@@ -28,7 +28,7 @@ Building modern, responsive and production-ready web applications.
 
 ## 👨‍💻 About Me
 
-I'm **Ahmad Farukh**, a Frontend & Junior Full Stack Developer focused on building scalable, responsive and production-ready web applications.
+I'm **Ahmad Farukh**, Full Stack Developer focused on building scalable, responsive and production-ready web applications.
 
 I have built **12+ production web applications** with hands-on experience in modern frontend architecture, REST APIs, authentication systems, dashboards, AI-powered features, cloud platforms and containerized applications.
 
