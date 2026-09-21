@@ -1,291 +1,208 @@
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ahmad Farukh</h1>
+# 👋 Hi, I'm Ahmad Farukh
 
-<h3 align="center">
-Frontend & Junior Full Stack Developer | React.js | Next.js | Node.js | Django
-</h3>
+### Frontend & Junior Full Stack Developer
 
-<p align="center">
-  <a href="https://github.com/ahmad-farukh">
-    <img src="https://img.shields.io/github/followers/ahmad-farukh?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ahmad-farukh">
-    <img src="https://komarev.com/ghpvc/?username=ahmad-farukh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
+**Building responsive interfaces, scalable web applications & production-ready digital experiences.**
+
+<p>
   <a href="https://ahmad-farukh-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-0A0A0A?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmadfarukh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rajahmadfarukh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Ahmad Farukh**, a Frontend & Junior Full Stack Developer passionate about building
-scalable, responsive, and production-ready web applications.
+I'm **Ahmad Farukh**, a Frontend & Junior Full Stack Developer focused on building modern, responsive and production-ready web applications.
 
-- 🚀 Built **12+ production web applications**
-- ⚛️ Strong focus on **React.js & modern frontend architecture**
-- 🔥 Experience with **Next.js, Node.js, Express.js & Django**
-- 🐳 Experienced with **Docker & containerized development**
-- ☁️ Worked with **Appwrite, Firebase, Vercel, Netlify & Railway**
-- 🔌 Experienced in building and integrating **RESTful APIs**
-- ⚡ Interested in performance optimization and scalable systems
-- 🎓 BS (Hons) Computer Science — COMSATS University Islamabad
+I have built **12+ production web applications** and have hands-on experience developing scalable frontend interfaces, REST APIs, authentication systems, dashboards, AI-powered features and containerized applications.
+
+🎓 **BS (Hons) Computer Science — COMSATS University Islamabad**
+💼 **Full Stack Developer Intern — Quants Data Solutions**
+📍 Pakistan
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux Toolkit, Context API, React Query, Responsive Web Design.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
-</p>
+**Backend & Databases:** Node.js, Express.js, Django, Python, RESTful APIs, WebSockets, Socket.io, JWT Authentication, PostgreSQL, MongoDB.
 
-### Backend
+**Cloud & DevOps:** Docker, Docker Compose, Multi-stage Builds, Appwrite, Firebase, Vercel, Netlify, Railway, CI/CD, Cloud Deployment.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
-</p>
-
-### Database & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,appwrite,mongodb" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel,netlify" />
-</p>
+**Tools & Workflow:** Git, GitHub, VS Code, Postman, REST APIs, Web Performance Optimization, LocalStorage, API Rate Limiting, Async Concurrency.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 1. 🔎 DevMetrics
+### 🔎 DevMetrics
 
-Full-stack web audit platform for analyzing website performance,
-security headers, CDN information and design specifications.
+Full-stack web audit platform for website performance, security headers, CDN detection and technical analysis.
 
-**Tech:** React.js • Vite • Redux Toolkit • Node.js • Express.js • Docker • Tailwind CSS
+**React.js • Redux Toolkit • Node.js • Express.js • Docker • Tailwind CSS**
 
-🌐 **Live Demo:**  
-https://dev-metrics-ahmad-farukh-6hv1.vercel.app/
+🔗 [Live Demo](https://dev-metrics-ahmad-farukh-6hv1.vercel.app/)
 
 ---
 
-## 2. 🛍️ Ahyera Store
+### 🛍️ Ahyera Store
 
-Full-stack multi-tenant marketplace with AI-powered bargaining,
-visual search, JWT authentication and role-based dashboards.
+Full-stack multi-tenant marketplace featuring AI bargaining, visual search, authentication and role-based dashboards.
 
-**Tech:** Django • Python • JavaScript • Docker • Groq API
+**Django • Python • JavaScript • Docker • Groq API**
 
-🌐 **Live Demo:**  
-https://ahyerastore-django-js-complete-production.up.railway.app/
+🔗 [Live Demo](https://ahyerastore-django-js-complete-production.up.railway.app/)
 
 ---
 
-## 3. ✍️ Blogify
+### ✍️ Blogify
 
-Modern blogging platform with authentication, protected routes,
-rich text editing and image management.
+Modern blogging platform with authentication, protected routes, rich-text editing and Appwrite backend services.
 
-**Tech:** React.js • Redux Toolkit • Appwrite • React Hook Form • TinyMCE • Tailwind CSS
+**React.js • Redux Toolkit • Appwrite • TinyMCE • Tailwind CSS**
 
-🌐 **Live Demo:**  
-https://blogify-ahmadfarukh.vercel.app/
+🔗 [Live Demo](https://blogify-ahmadfarukh.vercel.app/)
 
 ---
 
-## 4. 🤖 Nexus AI Store
+### 🤖 Nexus AI Store
 
-AI-powered e-commerce experience with natural language search,
-catalog matching and budget-based filtering.
+AI-powered e-commerce application with natural-language search, catalog matching and budget filtering.
 
-**Tech:** React.js • Context API • Gemini API • Tailwind CSS
+**React.js • Context API • Gemini API • Tailwind CSS**
 
-🌐 **Live Demo:**  
-https://nexus-ai-store-ahmad-farukh.netlify.app/
+🔗 [Live Demo](https://nexus-ai-store-ahmad-farukh.netlify.app/)
 
 ---
 
-## 5. 📊 SaaS Analytical Dashboard
+### 📊 SaaS Analytical Dashboard
 
-Responsive SaaS analytics dashboard featuring multiple data
-visualizations and modular UI architecture.
+Responsive analytics dashboard with modular UI components and interactive data visualizations.
 
-**Tech:** React.js • Tailwind CSS
+**React.js • Tailwind CSS**
 
-🌐 **Live Demo:**  
-https://saas-anaylytical-board-ahmad-farurkh.netlify.app/
+🔗 [Live Demo](https://saas-anaylytical-board-ahmad-farurkh.netlify.app/)
 
 ---
 
-## 6. 📋 Kanban Workspace
+### 📋 Kanban Workspace
 
-Interactive drag-and-drop workspace for managing tasks across
-custom workflow columns.
+Interactive task management workspace with drag-and-drop workflows and persistent browser storage.
 
-**Tech:** React.js • JavaScript • LocalStorage
+**React.js • JavaScript • LocalStorage**
 
-🌐 **Live Demo:**  
-https://kanbanworkspace-ahmad-farukh.netlify.app/
+🔗 [Live Demo](https://kanbanworkspace-ahmad-farukh.netlify.app/)
 
 ---
 
-## 7. 💻 ReactFortage Browser IDE
+<details>
+<summary><b>More Projects</b></summary>
 
-Browser-based development environment capable of executing code
-with a custom developer-focused interface.
+<br>
 
-**Tech:** React.js • Tailwind CSS
+**ReactFortage Browser IDE** — Browser-based coding environment with real-time code execution.
+[Live Demo](https://reactfortage-ide-ahmad-farukh.netlify.app/)
 
-🌐 **Live Demo:**  
-https://reactfortage-ide-ahmad-farukh.netlify.app/
+**Expense Tracker** — Dynamic expense management with persistent local storage.
+[Live Demo](https://expense-tracker-app-ahmad-farukh.netlify.app/)
 
----
+**Currency Converter** — Real-time currency conversion using REST APIs.
+[Live Demo](https://currency-convertor-by-ahmad-farukh.netlify.app/)
 
-## 8. 💰 Expense Tracker
+**Weather App** — API-powered weather application with dynamic weather data.
+[Live Demo](https://weather-app-by-ahmad-farukh.netlify.app/)
 
-Personal finance tracking application with dynamic transaction
-management and persistent local storage.
+**Random Password Generator** — Customizable password generation utility.
+[Live Demo](https://random-password-genrator-ahmadfarukh.netlify.app/)
 
-**Tech:** React.js • JavaScript • LocalStorage
+**Vanilla JS Todo** — Lightweight task manager using JavaScript and LocalStorage.
+[Live Demo](https://vanilla-js-todo-ahmad-farukh.netlify.app/)
 
-🌐 **Live Demo:**  
-https://expense-tracker-app-ahmad-farukh.netlify.app/
-
----
-
-## 9. 🔐 Random Password Generator
-
-Customizable password generation utility with complexity options,
-validation and clipboard functionality.
-
-**Tech:** React.js • JavaScript
-
-🌐 **Live Demo:**  
-https://random-password-genrator-ahmadfarukh.netlify.app/
+</details>
 
 ---
 
-## 10. 💱 Currency Converter
+## 🏆 GitHub Achievements
 
-Real-time currency conversion application powered by REST APIs
-with dynamic multi-currency calculations.
+<div align="center">
 
-**Tech:** React.js • REST API
+<img src="https://github-profile-trophy.vercel.app/?username=ahmad-farukh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&row=2" alt="GitHub Trophies" />
 
-🌐 **Live Demo:**  
-https://currency-convertor-by-ahmad-farukh.netlify.app/
+</div>
 
 ---
 
-## 11. 🌤️ Weather App
+## 📊 GitHub Activity
 
-Weather forecasting application consuming REST APIs and displaying
-dynamic weather information including humidity, wind and temperature.
+<div align="center">
 
-**Tech:** JavaScript • REST API
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-farukh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-🌐 **Live Demo:**  
-https://weather-app-by-ahmad-farukh.netlify.app/
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-farukh&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 12. ✅ Vanilla JavaScript Todo
+<br>
 
-Zero-dependency task management application built with vanilla
-JavaScript and browser LocalStorage.
+<div align="center">
 
-**Tech:** HTML • CSS • JavaScript • LocalStorage
+<img src="https://streak-stats.demolab.com?user=ahmad-farukh&theme=tokyonight&hide_border=true" />
 
-🌐 **Live Demo:**  
-https://vanilla-js-todo-ahmad-farukh.netlify.app/
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmad-farukh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-farukh&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-farukh&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌐 Connect With Me
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ahmad-farukh&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ahmad-farukh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
-  />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-farukh&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
-
-# 💼 Let's Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://ahmad-farukh-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/ahmad-farukh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmadfarukh/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rajahmadfarukh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🚀 What I Love Building
+<div align="center">
 
-```text
-Frontend Applications     ████████████████████  React / Next.js
-Full Stack Applications   ██████████████████   Node / Express / Django
-REST APIs                 █████████████████    API Integration
-UI/UX                     █████████████████    Tailwind / Responsive Design
-DevOps                    ███████████████      Docker / CI/CD
-Cloud Platforms           ███████████████      Vercel / Netlify / Railway
+### ⚡ Build • Learn • Ship • Improve
+
+<i>Open to opportunities, collaboration and building impactful products.</i>
+
+</div>
