@@ -1,138 +1,203 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmad Farukh
+# Ahmad Farukh
 
-### Full Stack Developer
+### Full Stack Developer · SaaS Developer
 
-**React.js • Next.js • Node.js • Django • Docker**
+I build modern web applications with **React, Next.js, Node.js, Django, and Docker** — from responsive interfaces to backend APIs and production deployments.
 
-Building modern, responsive and production-ready web applications.
+<br />
 
-<br>
-
-<a href="https://ahmad-farukh-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-111111?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahmadfarukh/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rajahmadfarukh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://ahmad-farukh-portfolio.netlify.app/">Portfolio</a>
+  ·   <a href="https://github.com/ahmad-farukh">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/ahmadfarukh/">LinkedIn</a>
+  ·   <a href="mailto:rajahmadfarukh@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Ahmad Farukh**, Full Stack Developer focused on building scalable, responsive and production-ready web applications.
+I'm **Ahmad Farukh**, a Full Stack Developer focused on building reliable, responsive, and production-ready web applications.
 
-I have built **12+ production web applications** with hands-on experience in modern frontend architecture, REST APIs, authentication systems, dashboards, AI-powered features, cloud platforms and containerized applications.
+My work covers frontend architecture, backend APIs, authentication, databases, AI integrations, performance optimization, and cloud deployment.
 
-* 🎓 **BS (Hons) Computer Science — COMSATS University Islamabad**
-* 💼 **Full Stack Developer Intern — Quants Data Solutions**
-* 🚀 **12+ Production Web Applications**
-* ⚡ React.js & modern frontend development
-* 🔧 Full Stack development with Node.js & Django
-* 🐳 Docker & containerized applications
-* ☁️ Cloud deployment & API integration
+I enjoy taking an idea from **interface → API → database → deployment** and turning it into a complete working product.
+
+* BS (Hons) Computer Science — COMSATS University Islamabad
+* Full Stack Developer Intern — Quants Data Solutions
+* 12+ web applications built
+* Experience with React, Next.js, Node.js and Django
+* REST API development and third-party API integrations
+* Docker and cloud deployment
+* AI-powered application development
 
 ---
 
-# 🧰 Technologies & Tools
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux&perline=7" />
 </p>
 
-**React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux Toolkit, Context API, React Query, Responsive Web Design.**
+React.js · Next.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Redux Toolkit · Context API · React Query
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mongodb&perline=6" />
 </p>
 
-**Node.js, Express.js, Django, Python, RESTful APIs, WebSockets, Socket.io, JWT Authentication, PostgreSQL, MongoDB.**
+Node.js · Express.js · Django · Python · REST APIs · WebSockets · Socket.IO · JWT · PostgreSQL · MongoDB
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,firebase,appwrite,vercel,netlify,railway&perline=6" />
 </p>
 
-**Docker, Docker Compose, Multi-stage Builds, Appwrite, Firebase, Vercel, Netlify, Railway, CI/CD, Cloud Deployment.**
+Docker · Docker Compose · Appwrite · Firebase · Vercel · Netlify · Railway · CI/CD · Cloud Deployment
 
-### 🛠️ Tools & Workflow
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite&perline=5" />
 </p>
 
-**Git, GitHub, VS Code, Postman, REST APIs, Web Performance Optimization, LocalStorage, API Rate Limiting, Async Concurrency.**
+Git · GitHub · VS Code · Postman · Vite · API Testing · Performance Optimization
 
 ---
 
-# 🚀 Projects
+## Selected Projects
 
-| #  | Project                       | Description                                                                                                | Technology                                       | Live                                                                      |
-| -- | ----------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
-| 01 | **DevMetrics**                | Full-stack website audit platform for performance, security headers, CDN detection and technical analysis. | React • Redux Toolkit • Node • Express • Docker  | [Live](https://dev-metrics-ahmad-farukh-6hv1.vercel.app/)                 |
-| 02 | **Ahyera Store**              | Multi-tenant marketplace with AI bargaining, visual search, JWT authentication and RBAC dashboards.        | Django • Python • JavaScript • Docker • Groq API | [Live](https://ahyerastore-django-js-complete-production.up.railway.app/) |
-| 03 | **Blogify**                   | Modern blogging platform with authentication, protected routes, rich-text editing and Appwrite backend.    | React • Redux Toolkit • Appwrite • TinyMCE       | [Live](https://blogify-ahmadfarukh.vercel.app/)                           |
-| 04 | **Nexus AI Store**            | AI-powered e-commerce experience with natural-language search and intelligent product filtering.           | React • Context API • Gemini API • Tailwind      | [Live](https://nexus-ai-store-ahmad-farukh.netlify.app/)                  |
-| 05 | **SaaS Analytical Dashboard** | Responsive SaaS dashboard with modular components and interactive analytics.                               | React • Tailwind CSS                             | [Live](https://saas-anaylytical-board-ahmad-farurkh.netlify.app/)         |
-| 06 | **Kanban Workspace**          | Drag-and-drop task management workspace with persistent workflow state.                                    | React • JavaScript • LocalStorage                | [Live](https://kanbanworkspace-ahmad-farukh.netlify.app/)                 |
-| 07 | **ReactFortage IDE**          | Browser-based development environment with real-time code execution.                                       | React • Tailwind CSS                             | [Live](https://reactfortage-ide-ahmad-farukh.netlify.app/)                |
-| 08 | **Expense Tracker**           | Personal finance tracker with dynamic transactions and persistent storage.                                 | React • JavaScript • LocalStorage                | [Live](https://expense-tracker-app-ahmad-farukh.netlify.app/)             |
-| 09 | **Currency Converter**        | Real-time multi-currency conversion application using REST APIs.                                           | React • REST API                                 | [Live](https://currency-convertor-by-ahmad-farukh.netlify.app/)           |
-| 10 | **Weather App**               | API-powered weather application with dynamic weather information.                                          | JavaScript • REST API                            | [Live](https://weather-app-by-ahmad-farukh.netlify.app/)                  |
-| 11 | **Password Generator**        | Customizable password generation utility with validation and clipboard support.                            | React • JavaScript                               | [Live](https://random-password-genrator-ahmadfarukh.netlify.app/)         |
-| 12 | **Vanilla JS Todo**           | Lightweight task management application using browser persistence.                                         | JavaScript • LocalStorage                        | [Live](https://vanilla-js-todo-ahmad-farukh.netlify.app/)                 |
-| 13 | **CVAT**                      | Computer-vision / annotation related project.                                                              | *Details to be added*                            | —                                                                         |
+### DevMetrics
+
+**Full Stack Website Audit Platform**
+
+A web-based audit platform that analyzes websites for performance, security headers, CDN configuration, and technical issues.
+
+**Stack:** React · Redux Toolkit · Node.js · Express · Docker
+
+[View Live Project](https://dev-metrics-ahmad-farukh-6hv1.vercel.app/)
 
 ---
 
-# 📌 Development Focus
+### Ahyera Store
+
+**AI-Powered Multi-Tenant Marketplace**
+
+An e-commerce marketplace featuring AI-powered bargaining, visual search, authentication, role-based dashboards, and seller functionality.
+
+**Stack:** Django · Python · JavaScript · Docker · Groq API
+
+[View Live Project](https://ahyerastore-django-js-complete-production.up.railway.app/)
+
+---
+
+### Blogify
+
+**Modern Content Management Platform**
+
+A blogging platform with authentication, protected routes, rich-text editing, post management, and an Appwrite backend.
+
+**Stack:** React · Redux Toolkit · Appwrite · TinyMCE
+
+[View Live Project](https://blogify-ahmadfarukh.vercel.app/)
+
+---
+
+### Nexus AI Store
+
+**AI-Powered E-Commerce Experience**
+
+An e-commerce interface with natural-language search, intelligent filtering, and AI-powered product discovery.
+
+**Stack:** React · Context API · Gemini API · Tailwind CSS
+
+[View Live Project](https://nexus-ai-store-ahmad-farukh.netlify.app/)
+
+---
+
+### SaaS Analytics Dashboard
+
+A responsive analytics dashboard built with reusable components and interactive data visualizations.
+
+**Stack:** React · Tailwind CSS
+
+[View Live Project](https://saas-anaylytical-board-ahmad-farurkh.netlify.app/)
+
+---
+
+### Kanban Workspace
+
+A drag-and-drop task management workspace with persistent workflow state and a responsive interface.
+
+**Stack:** React · JavaScript · LocalStorage
+
+[View Live Project](https://kanbanworkspace-ahmad-farukh.netlify.app/)
+
+---
+
+### ReactFortage IDE
+
+A browser-based development environment designed around real-time code execution and an interactive developer interface.
+
+**Stack:** React · Tailwind CSS
+
+[View Live Project](https://reactfortage-ide-ahmad-farukh.netlify.app/)
+
+---
+
+## Development Focus
 
 ```text
-Frontend Development     → React.js • Next.js • Tailwind CSS
-Backend Development      → Node.js • Express.js • Django
-Database                 → PostgreSQL • MongoDB
-API Development          → REST • WebSockets • JWT
-AI Integration           → Gemini API • Groq API
-DevOps                   → Docker • CI/CD • Cloud Deployment
-Cloud                    → Appwrite • Firebase • Vercel • Netlify • Railway
+Frontend        React · Next.js · Tailwind CSS
+Backend         Node.js · Express · Django
+Databases       PostgreSQL · MongoDB
+APIs            REST · WebSockets · JWT
+AI              Gemini API · Groq API
+DevOps          Docker · CI/CD
+Cloud           Appwrite · Firebase · Vercel · Railway
 ```
 
 ---
 
-# 📊 GitHub Profile
+## What I Build
 
-<div align="center">
-
-<a href="https://github.com/ahmad-farukh">
-<img src="https://img.shields.io/badge/GitHub-View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="https://github.com/ahmad-farukh?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-> **Note:** GitHub's native contribution calendar and achievements are already available directly on the GitHub profile. I have intentionally removed third-party activity/trophy images from this README because their public image services are currently returning upstream errors.
+```text
+Web Applications
+SaaS Platforms
+Admin Dashboards
+REST APIs
+E-Commerce Applications
+AI-Powered Features
+Authentication Systems
+API Integrations
+Responsive Interfaces
+Cloud-Deployed Applications
+```
 
 ---
 
-# 🌐 Let's Connect
+## Current Direction
+
+I'm currently focusing on becoming a stronger **Full Stack Engineer** by working deeper with:
+
+* Backend architecture
+* REST API design
+* PostgreSQL
+* Docker & CI/CD
+* System design
+* Cloud infrastructure
+* AI integrations
+* Performance optimization
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -141,11 +206,11 @@ Cloud                    → Appwrite • Firebase • Vercel • Netlify • Ra
 </a>
 
 <a href="https://github.com/ahmad-farukh">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmadfarukh/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rajahmadfarukh@gmail.com">
@@ -158,8 +223,6 @@ Cloud                    → Appwrite • Firebase • Vercel • Netlify • Ra
 
 <div align="center">
 
-### ⚡ Build • Learn • Ship • Improve
-
-**Thanks for visiting my profile!**
+**Build · Learn · Ship · Improve**
 
 </div>
