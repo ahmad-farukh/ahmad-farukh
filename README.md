@@ -1,228 +1,110 @@
-<div align="center">
-
 # Ahmad Farukh
 
-### Full Stack Developer · SaaS Developer
+**Full Stack Web Developer | Frontend Engineer**
 
-I build modern web applications with **React, Next.js, Node.js, Django, and Docker** — from responsive interfaces to backend APIs and production deployments.
-
-<br />
-
-<a href="https://ahmad-farukh-portfolio.netlify.app/">Portfolio</a>
-  ·   <a href="https://github.com/ahmad-farukh">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/ahmadfarukh/">LinkedIn</a>
-  ·   <a href="mailto:rajahmadfarukh@gmail.com">Email</a>
-
-</div>
+📍 Sahiwal, Pakistan  
+📧 [rajahmadfarukh@gmail.com](mailto:rajahmadfarukh@gmail.com)  
+📱 +92-3127332365  
+🔗 [GitHub](https://github.com/ahmad-farukh) | [LinkedIn](https://linkedin.com/in/ahmadfarukh)
 
 ---
 
-## About
+## Professional Summary
 
-I'm **Ahmad Farukh**, a Full Stack Developer focused on building reliable, responsive, and production-ready web applications.
+Results-driven Software Engineer specializing in frontend engineering and full-stack application development. Experienced in building and deploying 12+ web applications using React.js, Next.js, Node.js, TypeScript, and modern cloud technologies.
 
-My work covers frontend architecture, backend APIs, authentication, databases, AI integrations, performance optimization, and cloud deployment.
-
-I enjoy taking an idea from **interface → API → database → deployment** and turning it into a complete working product.
-
-* BS (Hons) Computer Science — COMSATS University Islamabad
-* Full Stack Developer Intern — Quants Data Solutions
-* 12+ web applications built
-* Experience with React, Next.js, Node.js and Django
-* REST API development and third-party API integrations
-* Docker and cloud deployment
-* AI-powered application development
+Strong expertise in responsive UI development, state management, REST API integration, authentication, performance optimization, Docker, and AI-powered application features. Passionate about building scalable, maintainable, and user-focused software solutions.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux&perline=7" />
-</p>
-
-React.js · Next.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Redux Toolkit · Context API · React Query
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mongodb&perline=6" />
-</p>
-
-Node.js · Express.js · Django · Python · REST APIs · WebSockets · Socket.IO · JWT · PostgreSQL · MongoDB
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,firebase,appwrite,vercel,netlify,railway&perline=6" />
-</p>
-
-Docker · Docker Compose · Appwrite · Firebase · Vercel · Netlify · Railway · CI/CD · Cloud Deployment
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite&perline=5" />
-</p>
-
-Git · GitHub · VS Code · Postman · Vite · API Testing · Performance Optimization
+| Category | Technologies |
+|---|---|
+| Frontend | React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs, WebSockets |
+| Authentication | JWT, Authentication & Authorization, Role-Based Access Control (RBAC) |
+| State Management | Redux Toolkit, Context API |
+| Databases | MongoDB, PostgreSQL |
+| Cloud & Backend Services | Supabase, Firebase, Appwrite, Vercel, Render |
+| AI Integration | LLM Integration, Prompt Engineering, Google Gemini API, Groq API |
+| Tools & DevOps | Git, GitHub, Docker, GitHub Actions, Postman, Vite |
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### DevMetrics
+| Project | Technologies | Description | Links |
+|---|---|---|---|
+| **DevMetrics** | React.js, Vite, Redux Toolkit, Node.js, Express.js, Docker, Tailwind CSS | Full-stack website auditing platform featuring performance analysis, concurrent API evaluations, CDN detection, security-header scanning, and automated design-spec reports. | [GitHub](https://github.com/ahmad-farukh) |
+| **Ahyera Store** | Django, Python, JavaScript, Docker, Groq API | AI-powered multi-vendor marketplace with an AI bargaining chatbot, visual product search, multi-tenant dashboards, JWT authentication, and RBAC. Final-year project. | [GitHub](https://github.com/ahmad-farukh) |
+| **Blogify** | React.js, Redux Toolkit, Appwrite, React Hook Form, TinyMCE, Tailwind CSS | Blogging platform with post creation, rich-text editing, image uploads, persistent state management, session validation, and protected routes. | [GitHub](https://github.com/ahmad-farukh) |
+| **Nexus AI Store** | React.js, Context API, Gemini API, Tailwind CSS | AI-powered product discovery application with natural-language search, fuzzy product matching, optimized rendering, and persistent user sessions. | [GitHub](https://github.com/ahmad-farukh) |
+| **SaaS Analytical Dashboard** | React.js, Tailwind CSS | Responsive analytics dashboard featuring 10+ metric visualizations and modular, reusable UI components. | [GitHub](https://github.com/ahmad-farukh) |
+| **Kanban Workspace** | Check repository for exact stack | Task and workflow management application. | [GitHub](https://github.com/ahmad-farukh) |
+| **ReactFortage Browser IDE** | Check repository for exact stack | Browser-based development environment project. | [GitHub](https://github.com/ahmad-farukh) |
+| **Expense Tracker** | Check repository for exact stack | Application for tracking and managing expenses. | [GitHub](https://github.com/ahmad-farukh) |
+| **Currency Exchanger** | Check repository for exact stack | Currency conversion application. | [GitHub](https://github.com/ahmad-farukh) |
+| **Weather App** | Check repository for exact stack | Weather information application. | [GitHub](https://github.com/ahmad-farukh) |
+| **Password Generator** | Check repository for exact stack | Utility for generating passwords. | [GitHub](https://github.com/ahmad-farukh) |
+| **Vanilla JS Todo App** | HTML, CSS, JavaScript | Lightweight task management application built with vanilla JavaScript. | [GitHub](https://github.com/ahmad-farukh) |
 
-**Full Stack Website Audit Platform**
-
-A web-based audit platform that analyzes websites for performance, security headers, CDN configuration, and technical issues.
-
-**Stack:** React · Redux Toolkit · Node.js · Express · Docker
-
-[View Live Project](https://dev-metrics-ahmad-farukh-6hv1.vercel.app/)
-
----
-
-### Ahyera Store
-
-**AI-Powered Multi-Tenant Marketplace**
-
-An e-commerce marketplace featuring AI-powered bargaining, visual search, authentication, role-based dashboards, and seller functionality.
-
-**Stack:** Django · Python · JavaScript · Docker · Groq API
-
-[View Live Project](https://ahyerastore-django-js-complete-production.up.railway.app/)
+> **Note:** Replace the generic GitHub links in the project table with the actual repository URLs. The profile URL currently points to your GitHub profile, not individual project repositories.
 
 ---
 
-### Blogify
+## Professional Experience
 
-**Modern Content Management Platform**
+### Full Stack Developer — Self-Employed
+**February 2023 – Present | Lahore, Pakistan**
 
-A blogging platform with authentication, protected routes, rich-text editing, post management, and an Appwrite backend.
+- Architect and develop full-stack applications using React.js, Next.js, Node.js, Express.js, MongoDB, and REST APIs.
+- Integrate AI/LLM features, WebSockets, secure authentication, and role-based authorization.
+- Develop scalable application architectures and integrate third-party services.
 
-**Stack:** React · Redux Toolkit · Appwrite · TinyMCE
+### Full Stack Developer Intern — DecodeLabs
+**July 2026 – August 2026 | Remote**
 
-[View Live Project](https://blogify-ahmadfarukh.vercel.app/)
+- Built responsive web interfaces using React.js and Next.js.
+- Integrated frontend applications with Node.js and Express.js REST APIs.
+- Collaborated on frontend and backend development, feature integration, and application improvements.
 
----
+### Software Developer Intern — Quants Data Solutions
+**June 2024 – September 2024 | Islamabad, Pakistan**
 
-### Nexus AI Store
-
-**AI-Powered E-Commerce Experience**
-
-An e-commerce interface with natural-language search, intelligent filtering, and AI-powered product discovery.
-
-**Stack:** React · Context API · Gemini API · Tailwind CSS
-
-[View Live Project](https://nexus-ai-store-ahmad-farukh.netlify.app/)
-
----
-
-### SaaS Analytics Dashboard
-
-A responsive analytics dashboard built with reusable components and interactive data visualizations.
-
-**Stack:** React · Tailwind CSS
-
-[View Live Project](https://saas-anaylytical-board-ahmad-farurkh.netlify.app/)
+- Developed reusable and responsive UI components using React.js, JavaScript, and Tailwind CSS.
+- Integrated RESTful APIs and synchronized frontend state with dynamic application data.
+- Used Docker to containerize frontend development environments.
+- Contributed to frontend development and integration workflows for e-Mareez, a healthcare platform.
 
 ---
 
-### Kanban Workspace
+## Education
 
-A drag-and-drop task management workspace with persistent workflow state and a responsive interface.
+**COMSATS University Islamabad — Sahiwal Campus**
 
-**Stack:** React · JavaScript · LocalStorage
+Bachelor of Science (Hons.) in Computer Science  
+**September 2022 – June 2026**
 
-[View Live Project](https://kanbanworkspace-ahmad-farukh.netlify.app/)
-
----
-
-### ReactFortage IDE
-
-A browser-based development environment designed around real-time code execution and an interactive developer interface.
-
-**Stack:** React · Tailwind CSS
-
-[View Live Project](https://reactfortage-ide-ahmad-farukh.netlify.app/)
+CGPA: **3.20 / 4.00**
 
 ---
 
-## Development Focus
+## Languages
 
-```text
-Frontend        React · Next.js · Tailwind CSS
-Backend         Node.js · Express · Django
-Databases       PostgreSQL · MongoDB
-APIs            REST · WebSockets · JWT
-AI              Gemini API · Groq API
-DevOps          Docker · CI/CD
-Cloud           Appwrite · Firebase · Vercel · Railway
-```
+| Language | Proficiency |
+|---|---|
+| English | Professional |
+| Urdu | Native |
 
 ---
 
-## What I Build
+## Connect With Me
 
-```text
-Web Applications
-SaaS Platforms
-Admin Dashboards
-REST APIs
-E-Commerce Applications
-AI-Powered Features
-Authentication Systems
-API Integrations
-Responsive Interfaces
-Cloud-Deployed Applications
-```
+- **GitHub:** [github.com/ahmad-farukh](https://github.com/ahmad-farukh)
+- **LinkedIn:** [linkedin.com/in/ahmadfarukh](https://linkedin.com/in/ahmadfarukh)
+- **Email:** [rajahmadfarukh@gmail.com](mailto:rajahmadfarukh@gmail.com)
 
 ---
 
-## Current Direction
-
-I'm currently focusing on becoming a stronger **Full Stack Engineer** by working deeper with:
-
-* Backend architecture
-* REST API design
-* PostgreSQL
-* Docker & CI/CD
-* System design
-* Cloud infrastructure
-* AI integrations
-* Performance optimization
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://ahmad-farukh-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/ahmad-farukh">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/ahmadfarukh/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:rajahmadfarukh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Build · Learn · Ship · Improve**
-
-</div>
+*Building practical, scalable, and AI-powered web applications.*
