@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Farukh
+# Hi, I'm Ahmad Farukh
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=36BCF7&vCenter=true&width=520&lines=Ahmad+Farukh;Full+Stack+Web+Developer;Frontend+Engineer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
